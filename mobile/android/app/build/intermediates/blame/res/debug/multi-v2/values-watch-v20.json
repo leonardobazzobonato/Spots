@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/prix-1/Documentos/Projects/spots/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/home/prix-1/.gradle/caches/transforms-2/files-2.1/af384fe0c6697d9fc8d6b971381d87a8/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

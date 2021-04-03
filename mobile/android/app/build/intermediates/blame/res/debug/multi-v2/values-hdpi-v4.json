@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/prix-1/Documentos/Projects/spots/mobile/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/prix-1/.gradle/caches/transforms-2/files-2.1/af384fe0c6697d9fc8d6b971381d87a8/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
